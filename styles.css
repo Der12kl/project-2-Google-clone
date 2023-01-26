@@ -568,12 +568,6 @@ border-bottom-width: 0px;
     }
 }
 
-@media only screen and (max-width: 399px) {
-    .container {
-        height: 952px;
-    }
-}
-
  
 @media only screen and (max-width: 1035px) {
     .menu1g {
