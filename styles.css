@@ -34,7 +34,6 @@ html {
     height: 100%;
     color: #202124;
     font-family: arial,sans-serif;
-    height: 969px;
 }
 
 nav {
@@ -585,10 +584,5 @@ border-bottom-width: 0px;
 @media only screen and (max-width: 611px) {
     .menu1g {
         padding-left: 32px;
-    }
-}
-@media only screen and (min-width: 400px) {
-    html {
-        height: 969px;
     }
 }
