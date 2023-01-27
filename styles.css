@@ -168,7 +168,6 @@ visibility: visible;
 }
 .dot__3 {
     color: #5f6368;
-    fill: #5f6368;
     font-size: 13px;
     line-height: normal;
     opacity: 1;
@@ -302,7 +301,6 @@ width: auto;
 
 img.search1{
     color: #9aa0a6;
-    fill: #9aa0a6;
     height: 20px;
     line-height: 20px;
     display: inline-block;
